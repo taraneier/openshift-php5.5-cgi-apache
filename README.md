@@ -1,6 +1,6 @@
 # PHP5.5 + Apache 
 
-This modified DIY cartridge provides PHP 5.5.31 and fully free Apache configuration permission, which can be found in `conf` folder.
+This modified DIY cartridge provides PHP 5.6.27 and fully free Apache configuration permission, which can be found in `conf` folder.
 
 ## Quick Start
 
